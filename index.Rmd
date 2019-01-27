@@ -1,0 +1,6 @@
+---
+---
+  
+<link rel="stylesheet" href="styles.css" type="text/css">
+    
+I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to public health policy through my work as a Quantitative Specialist at [Center for Health and Policy Management](http://chpm.fk.ugm.ac.id/) in Faculty of Medicine, Universitas Gadjah Mada. 
